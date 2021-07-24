@@ -1,0 +1,130 @@
+body{
+    background-image: url("sand.jpg");
+    background-repeat: no-repeat;
+
+}
+.flat{
+    color: black;
+    padding:350px 350px 300px 350px;
+    background-color: white;
+    position: absolute;
+    top: 5%;
+    left: 24%;
+    border-radius: 25px;
+    
+}
+
+.sign{
+    position: absolute;
+    top: 5%;
+    left: 32%;
+    padding: 10px;
+    background-color: coral;
+    border-radius: 25px;
+    
+}
+
+.first{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.middle{
+    position: absolute;
+    top: 20%;
+    left: 45%; 
+}
+
+.last{
+    position: absolute;
+    top: 20%;
+    left: 60%;  
+}
+.add{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.Brgy{
+    width: 200%;
+}
+.Gen{
+    position: absolute;
+    top: 33%;
+    left: 60%
+}
+.Date{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+
+.num{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+}
+.mail{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    
+}
+.Email{
+    width: 130%;
+}
+
+.recov{
+    position: absolute;
+    top: 50%;
+    left: 50%;  
+}
+
+.rmail{
+    width: 130% ;
+}
+.pass{
+    position: absolute;
+    top: 60%;
+    left: 30%;   
+}
+.conPass{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+}
+ 
+.new1{
+   width: 51.7%;
+   position: absolute;
+   top: 70%;
+   left: 24%;
+}
+
+.des{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 75%;
+    left: 25%;
+}
+.checklist{
+   position: absolute;
+   top: 80%;
+   left: 25%;
+}
+
+.buts{
+    position: absolute;
+    top: 95%;
+    left: 43%;
+    background-color: cornflowerblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

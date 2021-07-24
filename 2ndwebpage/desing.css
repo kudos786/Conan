@@ -1,0 +1,79 @@
+.navbar{
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+}
+
+.navbar a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.search{
+    position: absolute;
+    top: 1%;
+    left: 30%;
+    
+}
+
+.sea{
+font-size: 25px;
+width: 200%;
+}
+
+.butt{
+    position: absolute;
+    top: 2px;
+    left: 76%;
+    font-size: 20px;
+    background-color:blanchedalmond;
+    padding: 8px 5px 2px 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.butt1{
+    position: absolute;
+    top: 7px;
+    left: 80%;
+    padding: 10px 24px;
+    background-color: chartreuse;
+    border-color: chartreuse;
+    cursor: pointer;
+}
+
+.butt1:hover{
+    color:white;
+}
+
+.log{
+    position: absolute;
+    top: 7px;
+    left: 88%;
+    cursor: pointer;
+    padding: 10px 24px;
+    background-color: chartreuse;
+    border-color: chartreuse;
+}
+
+.log:hover{
+    color: white;
+}
+
+.meet{
+    width: 1700px;
+}
+
